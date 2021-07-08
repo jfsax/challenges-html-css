@@ -1,0 +1,31 @@
+.card__title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    
+    margin-bottom: 20px;
+}
+
+.card__text {
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 25px;
+
+    margin-bottom: 30px;
+}
+
+.guidelines__title, .guidelines_text {
+    font-size: 14px;
+}
+
+.guidelines__title {
+    font-weight: 700;
+    line-height: 18px;
+
+    margin-bottom: 15px;
+}
+
+.guidelines_text {
+    font-weight: 400;
+    line-height: 21px;
+}
