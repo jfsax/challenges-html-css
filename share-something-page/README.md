@@ -1,1 +1,1 @@
-![Page preview](assets/page-preview.png);
+![Page preview](assets/page-preview.png)
